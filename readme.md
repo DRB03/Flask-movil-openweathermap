@@ -125,3 +125,8 @@ Adjunto link del video en Loop: https://www.loom.com/share/627404a6136142b7bca2b
 
 Adjunto Link del video en Asciinema: https://asciinema.org/a/QwYITZrUQmXuPCXPBJ8ByYx23
 
+Adjunto Screenshot del telefono:
+
+![Imagen de WhatsApp 2025-09-18 a las 21 57 07_5a4fd233](https://github.com/user-attachments/assets/a9c92c1c-fdf2-450c-8d4e-76f736e55d83)
+
+
